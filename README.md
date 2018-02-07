@@ -1,7 +1,7 @@
 # awesome-blockchain
 区块链技术汇总
 
-##入门
+## 入门
 [区块链简介，从原理到趋势](https://mp.weixin.qq.com/s/jzEmeLzFBJGugLwyXvluMw)
 ## Hyperledger Fabric
 ### 智能合约
